@@ -1,4 +1,4 @@
-package AncientSzarok.mbiro;
+package AncientNumbers.mbiro;
 
 import java.util.Arrays;
 

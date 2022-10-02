@@ -1,5 +1,5 @@
-import AncientSzarok.AncientNumbers;
-import AncientSzarok.mbiro.AncientNumberConverter;
+import AncientNumbers.AncientNumbers;
+import AncientNumbers.mbiro.AncientNumberConverter;
 
 public class Main {
     public static void main(String[] args) {

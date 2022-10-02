@@ -1,4 +1,4 @@
-package AncientSzarok.mbiro;
+package AncientNumbers.mbiro;
 
 public class AncientNumberConverter {
     public static int ancientNumberToInt(String ancientNumString) {

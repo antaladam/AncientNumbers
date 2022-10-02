@@ -1,4 +1,4 @@
-package AncientSzarok;
+package AncientNumbers;
 
 public class AncientNumbers {
     public int romanToInt(String s) {
