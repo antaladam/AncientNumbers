@@ -4,7 +4,7 @@ Leetcode link: https://leetcode.com/problems/roman-to-integer/
 
 A program for converting Roman numbers to Integer values.
 
-Class AncientNumbers is used to convert the numbers to integers. The class's romanToInt function can be called to perform the conversion.
+Class AncientNumbers (package AncientNumbers) is used to convert the numbers to integers. The class's romanToInt function can be called to perform the conversion.
 
 The function CharsToNum converts the Roman numeral string into an array of integers, returning the array.
 
